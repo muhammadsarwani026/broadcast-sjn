@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "159658840709",
+    "firebase_url": "https://broadcast-sjn.firebaseio.com",
+    "project_id": "broadcast-sjn",
+    "storage_bucket": "broadcast-sjn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159658840709:android:0c61548ebebf9f56",
+        "android_client_info": {
+          "package_name": "lab.zayed.com.broadcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159658840709-5ensfcvv6fle8qn5gdhuchtkqf7arkf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwwsNyFhQS7iTPgeWlPsXInCIcv5YQxyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
