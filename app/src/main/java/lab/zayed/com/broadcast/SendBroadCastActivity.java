@@ -24,7 +24,7 @@ public class SendBroadCastActivity extends AppCompatActivity implements View.OnC
     EditText editTextJudul;
     EditText editTextISI;
     Button buttonSendMessage;
-    String LINK_SEND_BROADCAST = "http://172.25.87.79:81/jav/insert.php";
+    String LINK_SEND_BROADCAST = "http://192.168.1.31/jav/insert.php";
     ProgressDialog pDialog;
     String TAG = getClass().getSimpleName();
 

@@ -1,4 +1,4 @@
-package lab.zayed.com.broadcast.utils;
+package lab.zayed.com.broadcast.util;
 
 import android.app.ActivityManager;
 import android.app.Notification;

@@ -3,7 +3,7 @@
     package="lab.zayed.com.broadcast">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.GET_TASKS" />
 
     <application
         android:name=".AppController"
@@ -24,7 +24,7 @@
             android:name=".ListBroadCastActivity"
             android:label="@string/title_activity_list_broad_cast"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".DetilInformasiActivity"></activity>
+        <activity android:name=".DetilInformasiActivity" />
 
         <!-- Firebase Notifications -->
         <service android:name=".service.MyFirebaseMessagingService">

@@ -36,7 +36,7 @@ public class ListBroadCastActivity extends AppCompatActivity {
 
     //private ProgressDialog pDialog;
     private List<Informasi> informasiList;
-    private String urlJsonArray = "http://172.25.87.79:81/jav/";
+    private String urlJsonArray = "http://192.168.1.31/jav/";
     private static String TAG = MainActivity.class.getSimpleName();
     private Informasi infor;
     private ProgressBar progressBar;

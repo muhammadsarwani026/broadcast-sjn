@@ -14,7 +14,7 @@ import org.json.JSONObject;
 
 import lab.zayed.com.broadcast.MainActivity;
 import lab.zayed.com.broadcast.app.config;
-import lab.zayed.com.broadcast.utils.NotificationUtils;
+import lab.zayed.com.broadcast.util.NotificationUtils;
 
 /**
  * Created by Lab on 24/03/2017.
@@ -77,12 +77,10 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
             boolean isBackground = data.getBoolean("is_background");
             String imageUrl = data.getString("image");
             String timestamp = data.getString("timestamp");
-            JSONObject payload = data.getJSONObject("payload");
 
             Log.e(TAG, "title: " + title);
             Log.e(TAG, "message: " + message);
             Log.e(TAG, "isBackground: " + isBackground);
-            Log.e(TAG, "payload: " + payload.toString());
             Log.e(TAG, "imageUrl: " + imageUrl);
             Log.e(TAG, "timestamp: " + timestamp);
 
