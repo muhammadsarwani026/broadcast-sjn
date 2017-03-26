@@ -28,8 +28,5 @@ Aplikasi ini adalah aplikasi untuk pembelajaran bagaimana menampilkan list dari 
 - RAVI TAMADA 
 http://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/
 
-- LABKOM INSTITUT BISNI DAN INFORMATIKA STIKOM SURABAYA
+- LABKOM INSTITUT BISNIS DAN INFORMATIKA STIKOM SURABAYA
 http://labkom.stikom.edu/
-
-
-
